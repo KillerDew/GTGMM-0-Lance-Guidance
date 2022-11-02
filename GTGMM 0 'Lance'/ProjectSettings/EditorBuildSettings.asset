@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BasicDroneController/App/Scenes/BasicDroneController.unity
+    guid: 763bfffd25993224980b16870b72d6ce
   m_configObjects: {}
